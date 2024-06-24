@@ -1,2 +1,1 @@
 
-realiza un codigo para mt5 de un bot de trading con la siguiente estrategia,    sma corta de 80 , sma larga de 280, hacer una compra cuando la sma cruce de abajo hacia arriba la sma larga, hacer una venta cuando la sma corta cruce de arriba hacia abajo la sma larga, el color para la sma corta es blanco y para la larga roja.   La gestion de riesgo sera 1% por operacion buscando un beneficio de un 3% el stop sera de 10 pip
